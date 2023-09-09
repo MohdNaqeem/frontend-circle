@@ -218,8 +218,8 @@ iii) To check the string or number is palindrome or not( ex: 121,madam,anna) usi
      https://www.youtube.com/watch?v=7DCEd7e9o4Q
 
 06) Today revised all 7 previous logical programs
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
+10 Sep 2023
 
  
 
