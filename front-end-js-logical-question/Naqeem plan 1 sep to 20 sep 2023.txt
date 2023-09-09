@@ -1,0 +1,233 @@
+Naqeem schedule 2 sep to 2 dec
+-------------------------------------------------------
+01  HTML 5 ( 3o min )
+
+02 CSS 
+
+03 STATIC WEBSTITE (1.30 min)
+
+https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-html5-template
+
+
+04 CORE JAVASCRIPT / ADVANCED JAVSCRIPT ( 1 hours)
+
+i https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-javascript/core-javascript-notes
+
+ii Namste Javascript video
+
+iii w3schools.com
+
+
+05 LOGICAL PROGRAM  ( 3 hours )
+
+https://github.com/frontend-shamsuddin/frontend-circle/blob/main/front-end-js-logical-question/JS%20Logical%20Question.docx
+
+06  Git  ( 15  min) 
+
+https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-git-guide
+----------------------------------------------------------------------------------------------------------------------------------
+
+3 sep 2023
+
+01) Html 
+
+    i) old topics revised.
+   ii) watched videos related to div tag and created one structure in html.
+
+02) Css
+
+    i) old topics revised.
+   ii) position 
+
+03) Static Website
+
+       created one static Website.
+
+04) Core Javascript / Advanced Javascript
+
+       Today starting to watch Namaste Javascript again for learn more thing in deeply.
+
+    i) execution Context
+   ii) How to work Javascript behind the browser?
+  iii) map, filter, reduce
+   
+05) Javascript Logical programs.
+    i) Remove Duplicate characters from String
+   ii) Remove Duplicate characters from array of element and find the count of an elements using set object
+  iii) Remove Duplicate characters from array of element using filter
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+05 sep 2023
+
+01) Html 
+
+  *  saw the previous topic 
+
+02) CSS
+  
+  *  saw the previous topic 
+
+03) Static website
+
+04) Core Javascript / Advanced Javascript
+
+  i) Hoisting JS.
+ ii) How to Js works.
+iii) Shortest Js program.
+
+05) Javascript Logical programs.
+
+  i) String reverse without reversing of individual words (Array of elements can be reverse with reverse() method but for string it
+     is won't possible so required to split and then join().
+ ii) String reverse with reversing of individual words.
+iii) String reverse without using inbult function.
+
+06) 40 mins Took a call with Anil and discussed that.
+
+  i) How to use Bootstrap.
+ ii) discussed about inline and block of element.
+iii) How to make template using Bootstrap.
+
+07) Github 
+ 
+  *  watched video and create another accout 
+
+     username : MohdNaqeem
+     password : Naqeem@frontend
+-----------------------------------------------------------------------------------------------------------------------------
+06 sep 2023
+
+01) Html
+
+
+02) CSS
+
+
+03) Core Javascript / Advanced Javascript
+
+  i) Undefined vs Not defined
+
+     For revision :
+
+     Undefined:
+     a variable is 'declared', it has its own placeholder but not having the value of itself 'defined' hence 'undefined' and until the variable has assigned a value, the 'undefined' fills that particular placeholder
+     and 'undefined' is itself a datatype
+(really sorry for referencing with c++ concepts)   
+
+     Not Defined:
+     This case comes in error where js engine neither find that particular variable nor its placeholder
+ and cannot find the variable
+     in 1st phase of context (Memory allocation context).
+
+  ii) Scope chain / Scope & lexical enivronment
+ 
+     What is scope ?
+     scope means where you can access a specific variable or a function that is scope.
+
+04) Static Website
+
+  i) Product Preview Card.
+
+05) Logical Program 
+---------------------------------------------------------------------------------------------------------------------------------------
+07 sep 2023
+
+01) HTML
+
+
+02) CSS 
+
+
+03) Static website
+
+   i) Single Grid Component Master
+
+
+04) Core Javascript / Advanced Javascript
+
+  i) Let & const 
+
+      let and const are hoisted. we can't use them before initialization is result of "temporal dead zone".
+ 
+      js use diff memory than global execution context to store let and cost. which is reason behind "temporal dead zone"
+      level of strictness ... var<<let<<const.
+
+      syntax error is similar to compile error. while type and reference error falls under run time error.
+      syntax error ... violation of JS syntax
+      type error ...  while trying to re-initialize const variable
+      reference error ... while trying to access variable which is not there in global memory.
+
+ ii) Block scope & shadowing
+
+   Q) What is block in JavaScript?
+
+      Code inside curly bracket is called block
+                      &&
+      multiple js statements formed in a group enclosed in brackets and it forms a block
+
+   Q) What is need of a block/Grouping?
+      JavaScript sometimes expect to run a single statement to run, but we need to run commands with multiple statements which is only possible by block
+
+
+05) Logical Javascript 
+
+   i) Anagram 
+
+      Reference link
+      https://www.youtube.com/watch?v=kmmZc6RJMTk
+      https://www.youtube.com/watch?v=CsO-Vza8vwc&t=304s
+   
+  ii) Swapping of 2 numbers with third variable
+
+      Reference link
+      https://www.youtube.com/watch?v=FO4GfwdgOXA
+------------------------------------------------------------------------------------------------------------------------------------------
+09 Sep 2023
+
+01) HTML
+
+ i) Responsive 
+    https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_image
+ii) Favicon 
+    https://www.w3schools.com/html/html_favicon.asp
+
+02) CSS
+ 
+ i) Navbar
+    https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_float
+ii) Websie Layout
+    https://www.w3schools.com/css/css_website_layout.asp
+
+03) Static Website
+
+
+04) Core Javascript / Advanced Javascript
+
+  i) Closures 
+     
+ ii) SetTimeOut()
+
+05) Logical Javascript 
+
+  i) Swapping of 2 numbers with third variable
+     https://www.youtube.com/watch?v=uuIh9oD9Fck
+ ii) Swapping of 2 numbers without third variable
+     https://www.youtube.com/watch?v=uuIh9oD9Fck
+iii) To check the string or number is palindrome or not( ex: 121,madam,anna) using reverse method
+     https://www.youtube.com/watch?v=7DCEd7e9o4Q
+
+06) Today revised all 7 previous logical programs
+
+
+
+ 
+
+
+
+
+
+
+
+
+
