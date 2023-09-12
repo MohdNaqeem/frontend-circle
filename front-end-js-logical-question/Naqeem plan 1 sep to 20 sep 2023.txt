@@ -301,6 +301,54 @@ did not study due to bad health
 (05) Static Website
      
      Made one website using HTML, CSS and Bootstrap
+------------------------------------------------------------------------------------------------------------------------------------------
+12 sep 2023
+
+(01) HTML 
+
+     solve some question on w3school quize
+
+(02) Basic Javascript 
+     Today revised some basic javascript for more understanding
+    
+  i) Loop
+     we use loop to perform repeated actions
+
+
+(03) Advanced JS
+
+  i) Arrow function
+     Arrow function is a short syntax of javascript. we can call arrow function like normal function
+  
+     Syntax: 
+
+         let demo = () => {
+                          console.log("Arrow function")
+                          }
+
+ ii) Higher order function
+     Higher order function is function that accepts functions as parameters and returns a function.
+
+     function callbackFunction(){
+     console.log('I am  a callback function');
+                                }
+
+     // higher order function
+     function higherOrderFunction(func)  
+                                {
+     console.log('I am higher order function')
+     func()
+                                }
+
+      higherOrderFunction(callbackFunction);
+
+(04) Logical Javascript
+     
+  i) To find longest word from a string using functions.
+ ii) To find longest word from a string using custom code.
+
+
+
  
 
 
