@@ -30,6 +30,20 @@
             console.log(result[0])
         }
         findlongestWord()
+
+        function findword() {
+            let arr = "Momin Mohd NaqeemRazaAbubakar"
+            let res = arr.split(' ').sort((a,b)=> {
+                return b.length - a.length
+            })
+            console.log(res[0])
+        }
+        findword()
+
+
+        let arr = ["Momin", "Mohd"]
+        let res = arr.sort()
+        console.log(res)
     </script>
 </body>
 

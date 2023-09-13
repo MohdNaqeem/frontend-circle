@@ -312,7 +312,7 @@ did not study due to bad health
      Today revised some basic javascript for more understanding
     
   i) Loop
-     we use loop to perform repeated actions
+     we use loop to perform repeated actionsh
 
 
 (03) Advanced JS
@@ -327,7 +327,7 @@ did not study due to bad health
                           }
 
  ii) Higher order function
-     Higher order function is function that accepts functions as parameters and returns a function.
+     Higher order function is function that accepts another functions as a parameters and returns a function.
 
      function callbackFunction(){
      console.log('I am  a callback function');
@@ -340,12 +340,51 @@ did not study due to bad health
      func()
                                 }
 
+
       higherOrderFunction(callbackFunction);
 
 (04) Logical Javascript
      
   i) To find longest word from a string using functions.
- ii) To find longest word from a string using custom code.
+
+------------------------------------------------------------------------------------------------------------------------------------------13 sep 2023
+
+(01) HTML
+
+
+(02) CSS
+
+
+(03) Core Js / Advanced JS
+
+ i)  Calback Function
+     Function that is passed on as argument to another function is called callback function.
+
+     for ex : function x() {
+                           console.log("This is normal function") 
+                           }
+               x(function y(){
+                           console.log("This is callback function")
+                           })
+ii) Revised some previous topic
+    loop
+    for lop
+    of loop
+
+
+(04) Logical JS 
+ 
+   i) To find longest word from a string using (for of)
+
+(05) Static Website
+
+
+ 
+
+
+     
+
+
 
 
 
