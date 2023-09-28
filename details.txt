@@ -1,33 +1,6 @@
-Naqeem schedule 2 sep to 2 dec
--------------------------------------------------------
-01  HTML 5 ( 3o min )
-
-02 CSS 
-
-03 STATIC WEBSTITE (1.30 min)
-
-https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-html5-template
 
 
-04 CORE JAVASCRIPT / ADVANCED JAVSCRIPT ( 1 hours)
-
-i https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-javascript/core-javascript-notes
-
-ii Namste Javascript video
-
-iii w3schools.com
-
-
-05 LOGICAL PROGRAM  ( 3 hours )
-
-https://github.com/frontend-shamsuddin/frontend-circle/blob/main/front-end-js-logical-question/JS%20Logical%20Question.docx
-
-06  Git  ( 15  min) 
-
-https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-git-guide
-----------------------------------------------------------------------------------------------------------------------------------
-
-3 sep 2023
+H3 sep 2023
 
 01) Html 
 
@@ -221,7 +194,147 @@ iii) To check the string or number is palindrome or not( ex: 121,madam,anna) usi
 ------------------------------------------------------------------------------------------------------------------------------------------
 10 Sep 2023
 
+did not study due to bad health
+------------------------------------------------------------------------------------------------------------------------------------------
+11 sep 2023
+
+01) HTML
+
+ i) Layout
+    https://www.w3schools.com/html/html_layout.asp
+
+    There are four different techniques to create multicolumn layouts. Each technique has its pros and cons:
+    CSS framework
+    CSS float property
+    CSS flexbox
+    CSS grid
+
+02) CSS
+
+ i) Float
+    https://www.w3schools.com/css/css_float.asp
+
+    The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
+
+03) Core Javascript / Advanced Javascript
+
+ i) Function 
+    https://www.youtube.com/watch?v=SHINoHxvTso&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=16
+
+   01)  What is Function Statement ?	
+        A normal function that we create using Naming convention.& By this we can do the Hoisting. 
+         For Ex  -  function xyz(){
+                            console.log("Function Statement");
+                       }                  
  
+   02)  What is Function Expression ?
+        When we assign a function into a variable that is Function Expression. & We can not do Hoisting by this becz it acts like 
+        variable.
+         For Ex - var a = function(){
+                            console.log("Function Expression");
+                    }
+
+    03) What is Anonymous Function ?
+        A Function without the name is known as Anonymous Function. & It is used in a place where function are treated as value.
+        For Ex - function(){
+                     }
+
+    04) What is Named Function Expression ?
+        A function with a name is known as Named Function Expression.
+        For Ex - var a = function xyx(){
+                            console.log("Names Function Expression");
+                     }
+
+    05) Difference b/w Parameters and Arguments ?
+        When we creating a function  & put some variabels in this ( ) that is our Parameters.
+        For Ex - function ab( param1, param2 ){
+                              console.log("
+                      }
+        & When we call this function & pass a variabel in this ( ) that is our Arguments
+        For Ex - ab( 4, 5 );
+
+   06)  What is First Class Function Or First class citizens?
+        The Ability of use function as value, Can be passed as an Argument, Can be executed inside a closured function & Can be taken as
+        return form.
+          
+         
+        For Ex - var b = function(param){
+                             return function xyz(){
+                                     console.log(" F C F ");
+                             }
+                         }
+04) Logical Programs
+
+-----------------------------------------------------------------------------------------------------------------------------
+16 sep 2023
+
+01) HTML
+
+
+02) CSS 
+
+  i) Hover
+ ii) Justify-content - space evenly
+
+
+03) Static Website
+
+    Today Start to creat Amazonc clone with understanding
+----------------------------------------------------------------------------------------------------------------------------
+17 sep 2023
+
+01) CSS
+
+  i) flexbox
+ ii) background-image and size
+
+
+02) Static Website
+
+     Created Amazon clone in 2 days. 16 sep and 17
+
+
+03) Today I watched some videos related to JS for prepare important question and Js interview
+
+    https://www.youtube.com/watch?v=OEQpRTXfxoo&t=29s
+    https://www.youtube.com/watch?v=ssRvlc57CCk&t=1161s
+    https://www.youtube.com/watch?v=cKp7Ri14Ihk
+  
+    some important topic
+ 
+    SetTimeout
+    Placement of JS files 
+    var let and const 
+    Closures 
+    functional programming
+    This keyword
+    Framework
+    Prototypical
+    Promise 
+    Debounce vs throttle
+----------------------------------------------------------------------------------------------------------------------------
+26 sep 2023
+
+
+01) Javascript
+
+
+
+   
+
+
+
+
+
+
+                                                                                                                                                                                                             
+ 
+
+
+
+
+ 
+
 
 
 

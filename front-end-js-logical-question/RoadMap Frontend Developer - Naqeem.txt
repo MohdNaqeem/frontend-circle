@@ -1,0 +1,36 @@
+Ramzan Github Link  https://github.com/frontend-techo
+
+
+Naqeem schedule
+-------------------------------------------------------
+01  HTML 5 ( 3o min )
+
+02 CSS 
+
+03 STATIC WEBSTITE (1.30 min)
+
+   	https://github.com/frontend-shamsuddin/frontend-circle/tree/main/front-end-html5-template
+
+
+04 CORE JAVASCRIPT / ADVANCED JAVSCRIPT ( 1 hours)
+
+	i https://github.com/frontend-techo/front-end-javascript
+
+	ii Namste Javascript video
+
+	iii w3schools.com
+
+
+05 LOGICAL PROGRAM  ( 3 hours )
+
+	i https://github.com/frontend-techo/front-end-js-logical-question
+
+06  Git  ( 15  min) 
+
+	i https://github.com/frontend-techo/front-end-git-guide
+
+07 React ( 10 hour ) 
+
+	https://courses.namastedev.com/learn/Namaste-React
+----------------------------------------------------------------------------------------------------------------------------------
+

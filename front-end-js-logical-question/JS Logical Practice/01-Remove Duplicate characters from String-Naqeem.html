@@ -17,6 +17,15 @@
             return result;
         }
         console.log(removeDuplicateCharacters());
+
+        function prcatice() {
+            var demo = "Momin Mohd Naqeem"
+            var res = demo.split('').filter((item, index, arr) => {
+                return arr.indexOf(item) == index;
+            }).join('')
+            return res
+        }
+        console.log(prcatice())
     </script>
 </body>
 
