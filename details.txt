@@ -198,7 +198,11 @@ did not study due to bad health
 ------------------------------------------------------------------------------------------------------------------------------------------
 11 sep 2023
 
+<<<<<<< HEAD:details.txt
 01) HTML
+=======
+(01) HTML
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
 
  i) Layout
     https://www.w3schools.com/html/html_layout.asp
@@ -209,43 +213,71 @@ did not study due to bad health
     CSS flexbox
     CSS grid
 
+<<<<<<< HEAD:details.txt
 02) CSS
+=======
+(02) CSS
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
 
  i) Float
     https://www.w3schools.com/css/css_float.asp
 
     The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
 
+<<<<<<< HEAD:details.txt
 03) Core Javascript / Advanced Javascript
+=======
+(03) Core Javascript / Advanced Javascript
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
 
  i) Function 
     https://www.youtube.com/watch?v=SHINoHxvTso&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=16
 
+<<<<<<< HEAD:details.txt
    01)  What is Function Statement ?	
+=======
+    1)  What is Function Statement ?	
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         A normal function that we create using Naming convention.& By this we can do the Hoisting. 
          For Ex  -  function xyz(){
                             console.log("Function Statement");
                        }                  
  
+<<<<<<< HEAD:details.txt
    02)  What is Function Expression ?
+=======
+    2)  What is Function Expression ?
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         When we assign a function into a variable that is Function Expression. & We can not do Hoisting by this becz it acts like 
         variable.
          For Ex - var a = function(){
                             console.log("Function Expression");
                     }
 
+<<<<<<< HEAD:details.txt
     03) What is Anonymous Function ?
+=======
+    3) What is Anonymous Function ?
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         A Function without the name is known as Anonymous Function. & It is used in a place where function are treated as value.
         For Ex - function(){
                      }
 
+<<<<<<< HEAD:details.txt
     04) What is Named Function Expression ?
+=======
+    4) What is Named Function Expression ?
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         A function with a name is known as Named Function Expression.
         For Ex - var a = function xyx(){
                             console.log("Names Function Expression");
                      }
 
+<<<<<<< HEAD:details.txt
     05) Difference b/w Parameters and Arguments ?
+=======
+    5) Difference b/w Parameters and Arguments ?
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         When we creating a function  & put some variabels in this ( ) that is our Parameters.
         For Ex - function ab( param1, param2 ){
                               console.log("
@@ -253,7 +285,11 @@ did not study due to bad health
         & When we call this function & pass a variabel in this ( ) that is our Arguments
         For Ex - ab( 4, 5 );
 
+<<<<<<< HEAD:details.txt
    06)  What is First Class Function Or First class citizens?
+=======
+   6)  What is First Class Function Or First class citizens?
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
         The Ability of use function as value, Can be passed as an Argument, Can be executed inside a closured function & Can be taken as
         return form.
           
@@ -262,6 +298,7 @@ did not study due to bad health
                              return function xyz(){
                                      console.log(" F C F ");
                              }
+<<<<<<< HEAD:details.txt
                          }
 04) Logical Programs
 
@@ -331,6 +368,105 @@ did not study due to bad health
  
 
 
+=======
+                     } 
+
+ ii) Template String
+
+(04) Logical programs
+  
+  i) To check the string or number is palindrome or not( ex: 121,madam,anna) using diving length by 2 and then comparing
+
+
+(05) Static Website
+     
+     Made one website using HTML, CSS and Bootstrap
+------------------------------------------------------------------------------------------------------------------------------------------
+12 sep 2023
+
+(01) HTML 
+
+     solve some question on w3school quize
+
+(02) Basic Javascript 
+     Today revised some basic javascript for more understanding
+    
+  i) Loop
+     we use loop to perform repeated actionsh
+
+
+(03) Advanced JS
+
+  i) Arrow function
+     Arrow function is a short syntax of javascript. we can call arrow function like normal function
+  
+     Syntax: 
+
+         let demo = () => {
+                          console.log("Arrow function")
+                          }
+
+ ii) Higher order function
+     Higher order function is function that accepts another functions as a parameters and returns a function.
+
+     function callbackFunction(){
+     console.log('I am  a callback function');
+                                }
+
+     // higher order function
+     function higherOrderFunction(func)  
+                                {
+     console.log('I am higher order function')
+     func()
+                                }
+
+
+      higherOrderFunction(callbackFunction);
+
+(04) Logical Javascript
+     
+  i) To find longest word from a string using functions.
+
+------------------------------------------------------------------------------------------------------------------------------------------13 sep 2023
+
+(01) HTML
+
+
+(02) CSS
+
+
+(03) Core Js / Advanced JS
+
+ i)  Calback Function
+     Function that is passed on as argument to another function is called callback function.
+
+     for ex : function x() {
+                           console.log("This is normal function") 
+                           }
+               x(function y(){
+                           console.log("This is callback function")
+                           })
+ii) Revised some previous topic
+    loop
+    for lop
+    of loop
+
+
+(04) Logical JS 
+ 
+   i) To find longest word from a string using (for of)
+
+(05) Static Website
+
+
+ 
+
+
+     
+
+
+
+>>>>>>> 1d5f55e847356ca063600d16d93e9ea3be22f1e8:front-end-js-logical-question/Naqeem plan 1 sep to 20 sep 2023.txt
 
 
  
